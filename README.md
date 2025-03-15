@@ -49,21 +49,21 @@ Features
 Installation
 ------------
 1. Clone the Repository:  
-
+```bash
    git clone https://github.com/Rahul-Gadadhar/diabetes-advisor.git  
    cd diabetes-advisor
-
+```
 2. Create a Virtual Environment (Optional but Recommended):
-
+```bash
    python -m venv venv  
    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-
+```
 3. Install Dependencies:
 
    Install the required Python packages using pip:
-
+```bash
    pip install torch numpy pandas scikit-learn google-generativeai google-colab ipython
-
+```
    Note: The "google-colab" package is required if you are running the code in a Google Colab environment.
 
 Datasets
