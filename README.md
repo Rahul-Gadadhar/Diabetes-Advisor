@@ -95,7 +95,7 @@ Usage
 
    Execute the Python script:
 ```python
-   python um_diabetes_advisor.py
+   python diabetes_advisor.py
 ```
 3. Provide User Inputs:
 
