@@ -13,8 +13,6 @@ This project uses a Recurrent Neural Network (RNN) to predict food recommendatio
 - [Usage](#usage)  
 - [Model Architecture](#model-architecture)  
 - [Dependencies](#dependencies)  
-- [License](#license)  
-- [Acknowledgements](#acknowledgements)  
   
 Overview
 --------
@@ -45,7 +43,7 @@ Installation
 ------------
 1. Clone the Repository:  
 
-   git clone https://github.com/yourusername/diabetes-advisor.git  
+   git clone https://github.com/Rahul-Gadadhar/diabetes-advisor.git  
    cd diabetes-advisor
 
 2. Create a Virtual Environment (Optional but Recommended):
@@ -121,11 +119,3 @@ Dependencies
 - Google Generative AI – Used for generating AI explanations.  
 - Google Colab – (Optional) Environment for running the notebook.
 
-License
--------
-Distributed under the MIT License. See LICENSE for more information.
-
-Acknowledgements
-----------------
-- Thanks to the contributors and the open-source community for the libraries and tools used in this project.  
-- Special mention to Google for their Colab environment and Generative AI tools.
