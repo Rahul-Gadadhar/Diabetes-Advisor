@@ -3,14 +3,6 @@ Diabetes Advisor
 
 AI-powered Diabetes Advisor is a deep learning tool that integrates these components to assist diabetic patients in selecting foods that promote better glycemic control. By preprocessing patient and nutritional data, training an RNN model, and leveraging Google’s Gemini Generative AI for concise nutritional explanations, the system offers a comprehensive approach to dietary management for diabetes.  
 
-Diabetes  
------------------  
-Diabetes is a chronic metabolic disorder characterized by high blood sugar levels due to the body’s inability to produce enough insulin or effectively use it. There are primarily two types: Type 1, an autoimmune condition where the pancreas produces little or no insulin, and Type 2, where the body becomes resistant to insulin. Proper glycemic control is essential to prevent complications like cardiovascular disease, nerve damage, and kidney issues, making regular monitoring and appropriate dietary management crucial.  
-
-RNN  
------------------  
-A Recurrent Neural Network (RNN) is a type of neural network designed to handle sequential data by maintaining context through feedback loops. This makes RNNs particularly useful for analyzing time-series or sequential information, such as trends in nutritional data and patient health metrics. In this project, the RNN processes a combination of patient data and nutritional information to predict personalized food recommendations, thereby helping diabetic patients manage their blood sugar levels effectively.  
-
 ## Table of Contents  
 -----------------  
 - [Overview](#overview)  
@@ -26,7 +18,15 @@ Overview
 The Diabetes Advisor is a Python-based tool designed to assist diabetic patients in selecting foods that can help manage their blood sugar levels.  
 By combining diabetes patient data with detailed nutritional information of foods, the system preprocesses the data, trains an RNN model, and then uses user input (age, gender, diabetes type, blood sugar level) to generate personalized food recommendations.  
 Additionally, the application utilizes Google’s Gemini Generative AI to provide short, structured explanations on how the recommended foods can aid in diabetic control.
+  
+Diabetes  
+-----------------  
+Diabetes is a chronic metabolic disorder characterized by high blood sugar levels due to the body’s inability to produce enough insulin or effectively use it. There are primarily two types: Type 1, an autoimmune condition where the pancreas produces little or no insulin, and Type 2, where the body becomes resistant to insulin. Proper glycemic control is essential to prevent complications like cardiovascular disease, nerve damage, and kidney issues, making regular monitoring and appropriate dietary management crucial.  
 
+RNN  
+-----------------  
+A Recurrent Neural Network (RNN) is a type of neural network designed to handle sequential data by maintaining context through feedback loops. This makes RNNs particularly useful for analyzing time-series or sequential information, such as trends in nutritional data and patient health metrics. In this project, the RNN processes a combination of patient data and nutritional information to predict personalized food recommendations, thereby helping diabetic patients manage their blood sugar levels effectively.  
+  
 Features
 --------
 - Data Preprocessing:  
