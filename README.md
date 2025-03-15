@@ -112,6 +112,20 @@ Usage
    - Accuracy metrics from the model training.  
    - An AI-generated explanation from Google’s Gemini on how the recommended foods can help with diabetic control.
 
+Outputs
+------------------
+User Inputs:  
+![image](https://github.com/user-attachments/assets/3ff0771e-daff-41e6-ad43-71f27a6b0021)  
+  
+Generated Recommendations:  
+![image](https://github.com/user-attachments/assets/c1b983ba-50ac-4d0c-bd29-57f48e30a216)  
+
+Accuracy Metrics:  
+![image](https://github.com/user-attachments/assets/ffe227a8-ab05-4288-9e81-b8215e579968)  
+
+Gemini Response:  
+![image](https://github.com/user-attachments/assets/51743f56-7435-49b9-b431-49ed717b9617)  
+    
 Model Architecture
 ------------------
 The system uses a basic RNN model implemented in PyTorch:
