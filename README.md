@@ -75,8 +75,11 @@ This project requires two datasets:
 Place these CSV files in your Google Drive or local file system.  
 If using Google Colab, update the file paths accordingly. For example:  
 
-   diabetes_data = pd.read_csv(r'/content/drive/My Drive/Datasets/diabetes_patient_data.csv')  
-   pred_food_data = pd.read_csv(r'/content/drive/My Drive/Datasets/pred_food.csv')
+```python
+diabetes_data = pd.read_csv(r'/content/drive/My Drive/Datasets/diabetes_patient_data.csv')
+pred_food_data = pd.read_csv(r'/content/drive/My Drive/Datasets/pred_food.csv')
+```
+
 
 Usage
 -----
