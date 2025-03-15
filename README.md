@@ -9,7 +9,8 @@ AI-powered Diabetes Advisor is a deep learning tool that integrates these compon
 - [Features](#features)  
 - [Installation](#installation)  
 - [Datasets](#datasets)  
-- [Usage](#usage)  
+- [Usage](#usage)
+- [Outputs](#Outputs)  
 - [Model Architecture](#model-architecture)  
 - [Dependencies](#dependencies)  
   
