@@ -1,7 +1,7 @@
-Diabetes Advisor
+AI-Powered Personalized Diabetes Nutrition Advisor using RNN  
 ================
 
-AI-powered Diabetes Advisor is a deep learning tool that integrates these components to assist diabetic patients in selecting foods that promote better glycemic control. By preprocessing patient and nutritional data, training an RNN model, and leveraging Google’s Gemini Generative AI for concise nutritional explanations, the system offers a comprehensive approach to dietary management for diabetes.  
+AI-powered Diabetes Nutrition Advisor is a deep learning tool that integrates these components to assist diabetic patients in selecting foods that promote better glycemic control. By preprocessing patient and nutritional data, training an RNN model, and leveraging Google’s Gemini Generative AI for concise nutritional explanations, the system offers a comprehensive approach to dietary management for diabetes.  
 
 ## Table of Contents  
   
