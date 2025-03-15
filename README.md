@@ -4,18 +4,18 @@ Diabetes Advisor
 A machine learning-powered diabetes advisor that recommends suitable foods for diabetic patients based on their nutritional content and current blood sugar levels.  
 This project uses a Recurrent Neural Network (RNN) to predict food recommendations from a dataset of diabetes patient data and food nutritional values, and further leverages Google’s Generative AI (Gemini) to provide a concise explanation of the nutritional benefits for diabetic control.
 
-Table of Contents
------------------
-- Overview
-- Features
-- Installation
-- Datasets
-- Usage
-- Model Architecture
-- Dependencies
-- License
-- Acknowledgements
-
+## Table of Contents  
+-----------------  
+- [Overview](#overview)  
+- [Features](#features)  
+- [Installation](#installation)  
+- [Datasets](#datasets)  
+- [Usage](#usage)  
+- [Model Architecture](#model-architecture)  
+- [Dependencies](#dependencies)  
+- [License](#license)  
+- [Acknowledgements](#acknowledgements)  
+  
 Overview
 --------
 The Diabetes Advisor is a Python-based tool designed to assist diabetic patients in selecting foods that can help manage their blood sugar levels.  
