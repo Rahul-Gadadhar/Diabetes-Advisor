@@ -86,16 +86,16 @@ Usage
 1. Mount Google Drive (if using Colab):
 
    When running in Google Colab, use the following code snippet to mount your Google Drive:
-
+```python
    from google.colab import drive  
    drive.mount('/content/drive')
-
+```
 2. Run the Script:
 
    Execute the Python script:
-
+```python
    python um_diabetes_advisor.py
-
+```
 3. Provide User Inputs:
 
    The script will prompt for:
